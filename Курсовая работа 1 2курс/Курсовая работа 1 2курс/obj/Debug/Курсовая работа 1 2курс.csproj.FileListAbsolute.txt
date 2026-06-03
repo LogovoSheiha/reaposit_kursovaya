@@ -1,0 +1,16 @@
+C:\Users\sajhu\source\repos\Курсовая работа 1 2курс\Курсовая работа 1 2курс\bin\Debug\Курсовая работа 1 2курс.exe.config
+C:\Users\sajhu\source\repos\Курсовая работа 1 2курс\Курсовая работа 1 2курс\bin\Debug\Курсовая работа 1 2курс.exe
+C:\Users\sajhu\source\repos\Курсовая работа 1 2курс\Курсовая работа 1 2курс\bin\Debug\Курсовая работа 1 2курс.pdb
+C:\Users\sajhu\source\repos\Курсовая работа 1 2курс\Курсовая работа 1 2курс\obj\Debug\Курсовая работа 1 2курс.csproj.AssemblyReference.cache
+C:\Users\sajhu\source\repos\Курсовая работа 1 2курс\Курсовая работа 1 2курс\obj\Debug\Курсовая_работа_1_2курс.Form1.resources
+C:\Users\sajhu\source\repos\Курсовая работа 1 2курс\Курсовая работа 1 2курс\obj\Debug\Курсовая_работа_1_2курс.Properties.Resources.resources
+C:\Users\sajhu\source\repos\Курсовая работа 1 2курс\Курсовая работа 1 2курс\obj\Debug\Курсовая работа 1 2курс.csproj.GenerateResource.cache
+C:\Users\sajhu\source\repos\Курсовая работа 1 2курс\Курсовая работа 1 2курс\obj\Debug\Курсовая работа 1 2курс.csproj.CoreCompileInputs.cache
+C:\Users\sajhu\source\repos\Курсовая работа 1 2курс\Курсовая работа 1 2курс\obj\Debug\Курсовая работа 1 2курс.exe
+C:\Users\sajhu\source\repos\Курсовая работа 1 2курс\Курсовая работа 1 2курс\obj\Debug\Курсовая работа 1 2курс.pdb
+C:\Users\sajhu\source\repos\Курсовая работа 1 2курс\Курсовая работа 1 2курс\obj\Debug\Курсовая_работа_1_2курс.Form3.resources
+C:\Users\sajhu\source\repos\Курсовая работа 1 2курс\Курсовая работа 1 2курс\obj\Debug\Курсовая_работа_1_2курс.Form4.resources
+C:\Users\sajhu\source\repos\Курсовая работа 1 2курс\Курсовая работа 1 2курс\obj\Debug\Курсовая_работа_1_2курс.Form5.resources
+C:\Users\sajhu\source\repos\Курсовая работа 1 2курс\Курсовая работа 1 2курс\obj\Debug\Курсовая_работа_1_2курс.Form6.resources
+C:\Users\sajhu\source\repos\Курсовая работа 1 2курс\Курсовая работа 1 2курс\obj\Debug\Курсовая_работа_1_2курс.Form7.resources
+C:\Users\sajhu\source\repos\Курсовая работа 1 2курс\Курсовая работа 1 2курс\obj\Debug\Курсовая_работа_1_2курс.Form.resources
